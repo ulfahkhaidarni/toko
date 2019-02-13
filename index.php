@@ -11,11 +11,11 @@
 <body>
     <h1>ini pake git</h1>
     <?php
-    for($i = 0; $i <5; $i++)
+    for($i = 0; $i <3; $i++)
     {
         echo("for $i");
         echo ("Hello World");
-        
+
     }
     ?>
 </body>
